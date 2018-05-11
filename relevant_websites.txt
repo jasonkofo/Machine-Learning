@@ -1,2 +1,6 @@
-https://web.stanford.edu/~jurafsky/slp3/9.pdf;
-
+https://web.stanford.edu/~jurafsky/slp3/9.pdf
+http://www.cs.cmu.edu/~epxing/Class/10810-05/lecture3.pdf
+http://cs229.stanford.edu/section/cs229-hmm.pdf
+https://web.stanford.edu/~jurafsky/slp3/9.pdf
+https://www.youtube.com/watch?v=M7afek1nEKM
+https://www.google.co.za/search?q=viterbi+algorithm+python&oq=viterby+algorithm&aqs=chrome.3.69i57j0l5.4630j0j7&sourceid=chrome&ie=UTF-8
